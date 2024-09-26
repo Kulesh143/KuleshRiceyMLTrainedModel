@@ -26,10 +26,11 @@ model. Like ResNet, VGG16 also misclassified four instances, as shown by the con
 that both models perform similarly in terms of overall classification effectiveness and balance between
 precision and recall.
 
-By SLIIT MSc. in IT Student- A.Kulesh.B.M.Abhayasundara
 While both models perform exceptionally well, the choice between them ultimately depends on additional
 factors such as computational efficiency, model complexity, and ease of deployment. Since both models yield
 similar accuracy, precision, and recall, either ResNet or VGG16 would be suitable for this task. However,
 ResNet’s architecture, which is designed to mitigate the vanishing gradient problem, may provide additional
 robustness in larger-scale datasets, potentially making it a better choice for further scaling and real-world
 applications in agriculture.
+
+<h3>By SLIIT MSc. in IT Student- A.Kulesh.B.M.Abhayasundara</h3>
