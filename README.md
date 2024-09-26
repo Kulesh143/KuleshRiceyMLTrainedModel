@@ -5,6 +5,7 @@ Monitoring</h1>
 
 
 ![bnan](https://github.com/user-attachments/assets/3bef1e78-11f0-40d5-b36a-2edc3a3a3560)
+![manaa](https://github.com/user-attachments/assets/27ea8e60-5f5a-45e6-a2cd-0bb0c9435eff)
 
 
 
