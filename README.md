@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/baef67dc-097c-4017-8a9f-531a92afa1ea)
 <h1>Detection of Paddy Leaf Deficiencies
 Using Machine Learning Algorithms
 for Optimized Crop Health
 Monitoring</h1>
 
 
-![image](https://github.com/user-attachments/assets/1f4520ce-d6a7-49dd-bc4d-62f673f7183e)
+![bnan](https://github.com/user-attachments/assets/3bef1e78-11f0-40d5-b36a-2edc3a3a3560)
+
 
 
 
