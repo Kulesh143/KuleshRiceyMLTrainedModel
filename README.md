@@ -1,11 +1,13 @@
-
+![image](https://github.com/user-attachments/assets/baef67dc-097c-4017-8a9f-531a92afa1ea)
 <h1>Detection of Paddy Leaf Deficiencies
 Using Machine Learning Algorithms
 for Optimized Crop Health
 Monitoring</h1>
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1f4520ce-d6a7-49dd-bc4d-62f673f7183e)
+
+
 
 In this study, two deep learning models, ResNet and VGG16, were evaluated for their performance in
 detecting paddy leaf disease. Both models exhibited strong results, but some key differences between them
